@@ -15,19 +15,19 @@ Historical usage data and external factors like weather and holidays can be used
 •	Recommend optimal fleet sizing and rebalancing strategies to meet demand.
 
 ### Dataset Description: ###
-The dataset contains these attributes for historical rental transactions from bike stations in Kashipur over 2018-2020. 
-•	Date: Date in yyyy-mm-dd format
-•	Rented Bike Count: Number of bikes rented at each hour
-•	Hour: Hour of the day (0-23)
-•	Temperature: Air temperature in degrees Celsius
-•	Humidity: Relative humidity in percentage (%)
-•	Windspeed: Wind speed in meters/second (m/s)
-•	Visibility: Visibility range in 10 meter increments
-•	Dew Point Temperature: Dew point temperature in degrees Celsius
-•	Solar Radiation: Solar radiation in Mega Joules per square meter (MJ/m2)
-•	Rainfall: Rainfall amount in millimeters (mm)
-•	Snowfall: Snowfall amount in centimeters (cm)
-•	Season: Categorical variable (Winter, Spring, Summer, Autumn)
-•	Holiday: Categorical variable (Holiday, Non-holiday)
-•	Functional Day: Categorical variable (NoFunc, Fun) to distinguish functional vs non-functional hours.
+The dataset contains these attributes for historical rental transactions from bike stations in Kashipur over 2017-2018. 
+- Date: Date in yyyy-mm-dd format
+- Rented Bike Count: Number of bikes rented at each hour
+- Hour: Hour of the day (0-23)
+- Temperature: Air temperature in degrees Celsius
+- Humidity: Relative humidity in percentage (%)
+- Windspeed: Wind speed in meters/second (m/s)
+- Visibility: Visibility range in 10 meter increments
+- Dew Point Temperature: Dew point temperature in degrees Celsius
+- Solar Radiation: Solar radiation in Mega Joules per square meter (MJ/m2)
+- Rainfall: Rainfall amount in millimeters (mm)
+- Snowfall: Snowfall amount in centimeters (cm)
+- Season: Categorical variable (Winter, Spring, Summer, Autumn)
+- Holiday: Categorical variable (Holiday, Non-holiday)
+- Functional Day: Categorical variable (NoFunc, Fun) to distinguish functional vs non-functional hours.
 The overarching goal is to enhance mobility services for citizens through optimized rental bike fleet management.
