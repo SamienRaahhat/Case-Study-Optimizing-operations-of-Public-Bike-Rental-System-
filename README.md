@@ -8,7 +8,7 @@ The municipal corporation of Kashipur is operating a public bike rental system t
 Historical usage data and external factors like weather and holidays can be used to accurately forecast hourly bike rental demand for all dock stations to manage fleet operations and provide a good user experience. This will help choose fleet size and rebalancing strategies.
 
 
-### Objectives:###
+### Objectives:
 •	Analyze historical rental transactions, weather and calendar data to understand demand patterns.
 •	Develop an accurate predictive model based on the given dataset.
 •	Identify key factors influencing demand and quantify their impact.
