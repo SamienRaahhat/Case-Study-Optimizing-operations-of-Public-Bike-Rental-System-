@@ -3,6 +3,9 @@ In this case study, we develop a predictive model to predict the Rented Bike Cou
 
 ## Optimizing operations of Public Bike Rental System in Kashipur ##
 
+![istockphoto-1329906434-612x612](https://github.com/SamienRaahhat/Case-Study-Optimizing-operations-of-Public-Bike-Rental-System-/assets/145576062/9775cd66-b707-4684-80ed-7d788e31c5d8)
+
+
 ### Problem Statement: ###
 The municipal corporation of Kashipur is operating a public bike rental system to promote environment-friendly mobility within the city. The system currently faces challenges in optimally distributing the fleet of rental bikes to match demand across different locations and time periods. There are instances of under or oversupply during certain hours, resulting in user dissatisfaction and operational inefficiencies.
 Historical usage data and external factors like weather and holidays can be used to accurately forecast hourly bike rental demand for all dock stations to manage fleet operations and provide a good user experience. This will help choose fleet size and rebalancing strategies.
